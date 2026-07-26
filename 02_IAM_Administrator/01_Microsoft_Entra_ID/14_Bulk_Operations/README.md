@@ -1,23 +1,215 @@
-# Bulk Operations
+# Microsoft Entra ID Bulk Operations
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to bulk operations within the tenant.
+This section documents bulk identity management activities performed within the EMusa Technologies Microsoft 365 tenant.
 
-## Objectives
-- Successfully bulk operations
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+Bulk operations were used to efficiently provision test identities, assign Microsoft 365 licenses, validate identity lifecycle processes, and troubleshoot common Entra ID administration issues.
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+---
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+# Environment
 
-## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
+| Item | Details |
+|---|---|
+| Organization | EMusa Technologies |
+| Tenant Domain | EMusaTechnologies.onmicrosoft.com |
+| Identity Platform | Microsoft Entra ID |
+| Microsoft 365 Subscription | Microsoft 365 Business Premium Trial |
+| Administrative Portal | Microsoft Entra Admin Center |
+| Additional Tools | Microsoft Graph Explorer |
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+---
+
+# Objectives
+
+The objective of this activity was to validate Microsoft Entra ID identity administration workflows, including:
+
+- User provisioning
+- Bulk user creation
+- License assignment
+- Identity validation
+- API-based user management
+- Troubleshooting common administrative issues
+
+---
+
+# User Provisioning Activities
+
+## Bulk User Creation Using CSV Import
+
+### Overview
+
+Created 10 test users using the Microsoft Entra ID bulk user creation feature.
+
+Method:
+
+- Microsoft Entra Admin Center
+- Bulk create users
+- CSV upload template
+
+### Process
+
+1. Downloaded the official Microsoft Entra ID bulk user creation template
+2. Prepared user identity information
+3. Uploaded CSV file
+4. Validated creation results
+5. Confirmed users appeared successfully in Entra ID
+
+---
+
+## Troubleshooting: CSV Header Mismatch Error
+
+### Issue
+
+The initial bulk upload failed due to an incorrect CSV header format.
+
+### Root Cause
+
+The uploaded CSV did not match the required Microsoft Entra ID bulk operation template structure.
+
+### Resolution
+
+- Downloaded the official Microsoft-provided CSV template
+- Mapped user information to the required columns
+- Re-uploaded the corrected file
+- Successfully created the user accounts
+
+### Lesson Learned
+
+Microsoft bulk operations require strict CSV formatting. Using the official templates reduces validation failures and improves deployment accuracy.
+
+---
+
+# Manual User Creation
+
+Created 5 users manually through Microsoft Entra Admin Center.
+
+Test accounts created:
+
+- Valentina Ramos
+- Gabriel Mendoza
+- Lucia Garcia
+- Andres Navarro
+- Elena Castillo
+
+Purpose:
+
+- Validate standard user provisioning workflow
+- Compare manual versus bulk provisioning methods
+
+---
+
+# Microsoft Graph Explorer User Creation
+
+## Overview
+
+Created 5 additional users using Microsoft Graph Explorer to validate API-based identity management.
+
+Microsoft Graph provides programmatic access to Microsoft 365 services and Entra ID resources.
+
+---
+
+## Troubleshooting
+
+### Issue 1: HTTP 405 Error
+
+Problem:
+
+Incorrect API endpoint was used during the user creation request.
+
+Resolution:
+
+- Reviewed Microsoft Graph API requirements
+- Corrected the endpoint
+- Retested the request successfully
+
+---
+
+### Issue 2: HTTP 403 Permission Error
+
+Problem:
+
+The request failed because required Microsoft Graph permissions were not consented.
+
+Resolution:
+
+- Reviewed required API permissions
+- Granted required consent
+- Re-executed the request successfully
+
+---
+
+# Microsoft 365 License Assignment
+
+## Overview
+
+Activated a Microsoft 365 Business Premium trial subscription to provide available licenses for testing.
+
+Initial tenant state:
+
+- Available licenses: 1 seat
+
+Resolution:
+
+- Activated 25-seat Microsoft 365 Business Premium trial
+- Assigned licenses to all 20 test users
+
+---
+
+## Validation
+
+Verified:
+
+- User accounts created successfully
+- Licenses assigned correctly
+- Microsoft 365 services available
+- Identity objects visible within Entra ID
+
+---
+
+# Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Microsoft Entra Admin Center | Identity administration |
+| Microsoft 365 Admin Center | Subscription and licensing |
+| CSV Bulk Import | User provisioning |
+| Microsoft Graph Explorer | API-based identity management |
+| GitHub | Documentation and evidence management |
+
+---
+
+# Operational Knowledge Demonstrated
+
+This activity demonstrates practical experience with:
+
+- Microsoft Entra ID user lifecycle management
+- Bulk identity provisioning
+- CSV-based administration
+- Microsoft Graph API fundamentals
+- License management
+- Identity troubleshooting
+- Documentation of administrative procedures
+
+---
+
+# Evidence
+
+Add supporting screenshots:
+
+- [ ] Tenant overview
+- [ ] Bulk user creation screen
+- [ ] CSV template example
+- [ ] Successful bulk import result
+- [ ] Microsoft Graph Explorer requests
+- [ ] License assignment results
+
+---
+
+# Related Documentation
+
+- Microsoft Entra ID Administration
+- Identity Lifecycle Management
+- Microsoft 365 User Management
+- License Management
