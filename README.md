@@ -43,4 +43,4 @@ administering Microsoft 365, Exchange Online, and Microsoft Entra ID for a healt
 company. Building toward Microsoft 365 Administrator and IT Operations Consultant work 
 for SMBs.
 
-[LinkedIn](https://www.linkedin.com/in/edison-musa-b29300206) · [Resume](#)
+[LinkedIn](https://www.linkedin.com/in/edison-musa-b29300206) · [Resume](EdisonMusa-CV.pdf)
