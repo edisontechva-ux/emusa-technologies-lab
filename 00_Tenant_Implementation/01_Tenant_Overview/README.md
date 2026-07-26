@@ -39,7 +39,7 @@ Overview of the EMusa Technologies Microsoft 365 tenant environment, including t
 # Evidence
 
 - Tenant Overview
-(screenshots/tenant-overview.png)
+<img width="1908" height="874" alt="image" src="https://github.com/user-attachments/assets/67586f64-d532-4f54-b9c5-8ee7ae97a9af" />
 
 ---
 
