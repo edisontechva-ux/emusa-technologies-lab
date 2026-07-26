@@ -206,8 +206,12 @@ Add supporting screenshots:
 ] CSV template example
 - [<img width="261" height="210" alt="image" src="https://github.com/user-attachments/assets/a3c5a673-b757-4d0f-bad6-a9ee7695fc02" />
 ] Successful bulk import result
-- [ ] Microsoft Graph Explorer requests
-- [ ] License assignment results
+- [<img width="1912" height="879" alt="image" src="https://github.com/user-attachments/assets/4c1eda3a-b3e2-4724-917e-fb5e605cd4fa" />
+] Microsoft Graph Explorer requests
+- [<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/9e426b2b-7664-49a5-bb40-1ee46e102c0a" />
+] License assignment before
+- [<img width="577" height="828" alt="image" src="https://github.com/user-attachments/assets/f8fb5b98-936c-4823-944a-027ec176e68f" />
+] License assignment result
 
 ---
 
