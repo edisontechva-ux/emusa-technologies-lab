@@ -24,6 +24,9 @@ proof of the working result.
 | 10 | [Microsoft Graph](./10_Microsoft_Graph) | API-based identity administration — users, groups, roles, applications, Conditional Access |
 | 11 | [Monitoring and Auditing](./11_Monitoring_and_Auditing) | Sign-in/audit logs, risky users and sign-ins, Identity Secure Score, workbooks |
 | 12 | [Troubleshooting](./12_Troubleshooting) | Common sign-in, MFA, Conditional Access, and sync issues and how they were resolved |
+| 13 | [App Registrations](./13_App_Registrations) | Registering applications, API permissions, client secrets/certificates |
+| 14 | [Identity Protection](./14_Identity_Protection) | User/sign-in risk policies, risk detections, risk-based Conditional Access |
+| 15 | [Workload Identities](./15_Workload_Identities) | Service principal and managed identity access and monitoring |
 
 Tasks within each topic area are documented and expanded on an ongoing basis.
 
