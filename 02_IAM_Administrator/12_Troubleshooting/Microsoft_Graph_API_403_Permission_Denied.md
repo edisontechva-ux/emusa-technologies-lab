@@ -19,4 +19,4 @@ The request was initially sent using an unsupported method/endpoint combination.
 
 ## Screenshot
 
-> Add Microsoft Graph Explorer 405 error screenshot here.
+<img width="1919" height="755" alt="image" src="https://github.com/user-attachments/assets/1fcf6e26-6d4e-427b-b687-73aecd179ae1" />
