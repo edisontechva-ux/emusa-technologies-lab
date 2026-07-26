@@ -17,4 +17,4 @@ The request did not have the required Microsoft Graph API permissions or admin c
 
 ## Screenshot
 
-> Add Microsoft Graph Explorer 403 error screenshot here.
+<img width="1919" height="775" alt="image" src="https://github.com/user-attachments/assets/b4900e60-c57e-4692-8156-c234249851db" />
