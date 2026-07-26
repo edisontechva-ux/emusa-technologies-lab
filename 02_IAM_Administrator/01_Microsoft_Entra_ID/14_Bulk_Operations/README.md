@@ -198,10 +198,14 @@ This activity demonstrates practical experience with:
 
 Add supporting screenshots:
 
-- [ ] Tenant overview
-- [ ] Bulk user creation screen
-- [ ] CSV template example
-- [ ] Successful bulk import result
+- [<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/32426d33-05ae-4eda-a402-7f7394eb52b0" />
+] Tenant overview
+- [<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/1d85c179-ae7d-406c-8b47-3b32735266e9" />
+] Bulk user creation screen
+- [<img width="1656" height="730" alt="image" src="https://github.com/user-attachments/assets/09645b91-3183-4616-b2d8-b99bd3762d07" />
+] CSV template example
+- [<img width="261" height="210" alt="image" src="https://github.com/user-attachments/assets/a3c5a673-b757-4d0f-bad6-a9ee7695fc02" />
+] Successful bulk import result
 - [ ] Microsoft Graph Explorer requests
 - [ ] License assignment results
 
