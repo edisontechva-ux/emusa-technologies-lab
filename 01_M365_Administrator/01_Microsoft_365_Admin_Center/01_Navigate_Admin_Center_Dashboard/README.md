@@ -1,4 +1,4 @@
-# Microsoft 365 Admin Center Navigation Overview
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/0f112cb6-13d5-4e91-b474-1435ef1ba171" /># Microsoft 365 Admin Center Navigation Overview
 
 The Microsoft 365 Admin Center provides centralized access to Microsoft 365 tenant management features. The navigation menu contains the primary administrative areas used for managing users, devices, applications, services, subscriptions, and organizational settings.
 
@@ -187,7 +187,8 @@ Additional administrative sections may include:
 
 # Screenshot
 
-![alt text](image.png)
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/e56a4965-b14d-43b2-8285-a7bb9ea3d172" />
+
 
 ---
 
