@@ -30,6 +30,11 @@ directory services (Entra ID), access reviews, SSO concepts, role-based access c
 | 03 | Exchange Mail Flow & DLP | M365 Admin / Governance | [View](./03-exchange-mail-flow-dlp) |
 | 04 | Sensitivity Labels & Compliance | M365 Admin / Security | [View](./04-security-compliance-labels) |
 | 05 | Graph API Access Automation | IAM / Automation | [View](./05-graph-api-automation) |
+| 06 | User & License Lifecycle Management | M365 Admin / Identity Ops | [View](./06-user-license-lifecycle) |
+| 07 | Groups & Access Management | IAM / RBAC | [View](./07-groups-access-management) |
+| 08 | Teams & SharePoint Governance | M365 Admin / Governance | [View](./08-teams-sharepoint-governance) |
+| 09 | Identity Protection & PIM | IAM / Privileged Access | [View](./09-identity-protection-pim) |
+| 10 | Backup, Retention & Disaster Recovery | M365 Admin / Business Continuity | [View](./10-backup-retention-dr) |
 
 ## About me
 
@@ -38,4 +43,4 @@ administering Microsoft 365, Exchange Online, and Microsoft Entra ID for a healt
 company. Building toward Microsoft 365 Administrator and IT Operations Consultant work 
 for SMBs.
 
-[LinkedIn](#) · [Resume](#)
+[LinkedIn](https://www.linkedin.com/in/edison-musa-b29300206) · [Resume](#)
