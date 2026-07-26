@@ -62,8 +62,7 @@ Supporting screenshots:
 
 Microsoft 365 tenant information:
 
-![Tenant Overview](<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/95853ea4-91bb-44c6-8695-51ee1d4d4d4f" />
-)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/95853ea4-91bb-44c6-8695-51ee1d4d4d4f" />
 
 ---
 
@@ -71,8 +70,7 @@ Microsoft 365 tenant information:
 
 Microsoft 365 Business Premium subscription:
 
-![Subscription Details](<img width="1916" height="741" alt="image" src="https://github.com/user-attachments/assets/ebb82bb1-009e-4976-8d32-f264797d9f07" />
-)
+<img width="1916" height="741" alt="image" src="https://github.com/user-attachments/assets/ebb82bb1-009e-4976-8d32-f264797d9f07" />
 
 ---
 
