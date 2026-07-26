@@ -37,7 +37,8 @@ Verified:
 
 # Evidence
 
-![Subscription Details](screenshots/subscription-details.png)
+- Subscription Details
+<img width="1919" height="723" alt="image" src="https://github.com/user-attachments/assets/7fbb41a5-c1a9-427b-8804-1cf4ac35d1aa" />
 
 ---
 
