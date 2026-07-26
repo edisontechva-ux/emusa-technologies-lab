@@ -213,7 +213,7 @@ Add supporting screenshots:
 - Microsoft Graph Explorer requests
 <img width="1912" height="879" alt="image" src="https://github.com/user-attachments/assets/4c1eda3a-b3e2-4724-917e-fb5e605cd4fa" />
 
--License assignment before
+- License assignment before
 <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/9e426b2b-7664-49a5-bb40-1ee46e102c0a" />
 
 - License assignment result
