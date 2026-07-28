@@ -31,17 +31,21 @@ Multiple Microsoft 365 user accounts were successfully created using the CSV imp
 
 ## Screenshot
 
+### Add multiple users
+
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/30282d5c-5e82-45b7-b626-6a4f7a51faed" />
+
 ### CSV Template
 
-`[Add screenshot here]`
+<img width="318" height="63" alt="image" src="https://github.com/user-attachments/assets/17682c7e-d3d6-434a-907e-b5307bebfba3" />
 
-### CSV Upload Wizard
+### CSV Upload Ready
 
-`[Add screenshot here]`
+<img width="1401" height="390" alt="image" src="https://github.com/user-attachments/assets/fe221055-8135-4297-a411-19ced29eef2e" />
 
 ### Import Results
 
-`[Add screenshot here]`
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/8b6283d1-2946-4c17-a76c-6fabf4ef38a1" />
 
 ---
 
