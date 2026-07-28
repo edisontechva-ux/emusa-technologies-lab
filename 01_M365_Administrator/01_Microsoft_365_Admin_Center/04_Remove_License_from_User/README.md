@@ -1,23 +1,40 @@
 # Remove License from User
 
-**Date:** _(add date completed)_
+Removing a license from a user immediately revokes their access to the associated apps and services (Exchange, Teams, SharePoint, OneDrive, etc.), while the user account itself remains in the tenant. This is typically paired with blocking sign-in when offboarding or suspending an account, to fully cut off access rather than just removing app entitlements.
 
-## Description
-Steps taken to remove license from user within the tenant.
+---
 
-## Objectives
-- Successfully remove license from user
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+# Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft 365 admin center → Users → Active users → [select user] → Licenses and Apps tab**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+Blocking sign-in is done from the same user profile, either via the **Block sign-in** toggle/status on the Account tab or via the quick action in the users list.
 
-## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
+---
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+# Steps
+
+1. Opened the Active users list and selected **Andres Navarro**.
+2. Set **Block sign-in** to prevent the account from authenticating.
+3. Went to the **Licenses and Apps** tab.
+4. Unchecked the **Microsoft 365 Business Premium** license.
+5. Clicked **Save changes**.
+6. Confirmed the license no longer shows as assigned and the account status reflects blocked sign-in.
+
+---
+
+# Result
+
+The license was successfully removed and sign-in was blocked for Andres Navarro. No issues encountered — both changes applied and were confirmed on the user's profile.
+
+---
+
+# Screenshot
+
+<img width="1919" height="911" alt="image" src="PASTE_SCREENSHOT_URL_HERE" />
+
+---
+
+# Administrative Notes
+
+Removing a license alone doesn't stop an active session or prevent re-authentication — pairing it with Block sign-in is the more complete step for offboarding or suspending a user, since it closes both access paths (app entitlements and the ability to log in at all).
