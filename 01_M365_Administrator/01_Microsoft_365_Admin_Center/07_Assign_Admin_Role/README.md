@@ -1,23 +1,56 @@
 # Assign Admin Role
 
-**Date:** _(add date completed)_
+Assigning an admin role allows a user to perform specific administrative tasks within Microsoft 365 without granting full Global Administrator access. Using role-based access control helps organizations follow the **principle of least privilege**, ensuring that users receive only the permissions required for their responsibilities.
 
-## Description
-Steps taken to assign admin role within the tenant.
+---
 
-## Objectives
-- Successfully assign admin role
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft 365 admin center → Users → Active users → [select user] → Manage roles**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+---
+
+## Steps
+
+1. Opened the **Microsoft 365 admin center**.
+2. Navigated to **Users → Active users**.
+3. Selected the target user account.
+4. Opened the user profile pane.
+5. Selected **Manage roles**.
+6. Expanded **Admin center access**.
+7. Chose the appropriate administrative role for the user.
+8. Reviewed the role permissions before applying the assignment.
+9. Clicked **Save changes** to assign the role.
+10. Verified that the assigned role appeared in the user’s profile under **Roles**.
+
+---
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The selected user was successfully assigned the required Microsoft 365 administrative role. The role assignment was confirmed in the user profile, and the account received the corresponding administrative permissions associated with the selected role.
+
+---
+
+## Screenshot
+
+### Select User Account
+
+`[Add screenshot here]`
+
+### Manage Roles Option
+
+`[Add screenshot here]`
+
+### Assign Admin Role Dialog
+
+`[Add screenshot here]`
+
+### Role Assignment Confirmation
+
+`[Add screenshot here]`
+
+---
+
+## Administrative Notes
+
+Microsoft 365 provides several built-in administrative roles, including **Global Administrator, User Administrator, Exchange Administrator, Teams Administrator, and Password Administrator**. Administrators should avoid assigning **Global Administrator** unless it is absolutely necessary, as it provides unrestricted access across the tenant. Assigning more granular roles improves security, simplifies auditing, and reduces the risk of accidental or unauthorized configuration changes within the Microsoft 365 environment.
