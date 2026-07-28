@@ -34,20 +34,10 @@ The selected user was successfully assigned the required Microsoft 365 administr
 ## Screenshot
 
 ### Select User Account
-
-`[Add screenshot here]`
-
-### Manage Roles Option
-
-`[Add screenshot here]`
-
 ### Assign Admin Role Dialog
-
-`[Add screenshot here]`
-
 ### Role Assignment Confirmation
 
-`[Add screenshot here]`
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/483765e0-3d85-4145-a467-62282ecd5073" />
 
 ---
 
