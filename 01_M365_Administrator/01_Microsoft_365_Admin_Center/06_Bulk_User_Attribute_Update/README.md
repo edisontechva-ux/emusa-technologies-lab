@@ -1,12 +1,12 @@
 # Bulk User Attribute Update
 
-Bulk user attribute update allows administrators to modify multiple Microsoft 365 user properties at the same time using the **bulk update feature** in the Microsoft 365 Admin Center. This method is useful when updating departments, job titles, office locations, phone numbers, or other organizational information for multiple users without editing each account individually.
+Bulk user attribute update allows administrators to modify common Microsoft 365 user properties for multiple accounts from the **Active users** view. This process is useful for updating organizational information such as department, job title, office location, and contact details for several users without opening each account individually.
 
 ---
 
 ## Location
 
-**Microsoft 365 admin center → Users → Active users → Select multiple users → Manage contact information / Manage organization information**
+**Microsoft 365 admin center → Users → Active users → Select multiple users → More actions (…) → Manage contact information**
 
 ---
 
@@ -15,31 +15,31 @@ Bulk user attribute update allows administrators to modify multiple Microsoft 36
 1. Opened the **Microsoft 365 admin center**.
 2. Navigated to **Users → Active users**.
 3. Selected multiple user accounts from the users list.
-4. Chose **Manage contact information** or **Manage organization information** from the available bulk actions.
-5. Updated the required attributes, such as **Department**, **Job title**, **Office location**, and **Phone number**.
-6. Reviewed the pending changes before applying them.
-7. Clicked **Save changes** to apply the updates to all selected users.
-8. Verified that the updated attributes appeared correctly in the user profiles.
+4. Clicked the **three-dot (…) More actions** menu on the command bar.
+5. Selected **Manage contact information**.
+6. Updated the required contact details for the selected users.
+7. Clicked **Save changes** to apply the updates.
+8. Verified that the updated information appeared correctly in the user profiles.
 
 ---
 
 ## Result
 
-The selected Microsoft 365 user accounts were successfully updated with the new organizational and contact information. The changes were applied consistently across all selected users and were visible in the **Active users** list and individual user profiles.
+The selected Microsoft 365 user accounts were successfully updated with the new contact information. The changes were applied consistently across the selected users and were visible in their user profiles within the **Active users** list.
 
 ---
 
 ## Screenshot
 
-### Select Multiple Users
+### Active Users List with Multiple Users Selected
 
 `[Add screenshot here]`
 
-### Bulk Manage Organization Information
+### More Actions Menu
 
 `[Add screenshot here]`
 
-### Updated User Attributes
+### Manage Contact Information Dialog
 
 `[Add screenshot here]`
 
@@ -47,4 +47,4 @@ The selected Microsoft 365 user accounts were successfully updated with the new 
 
 ## Administrative Notes
 
-Bulk attribute updates are useful for **department restructures, office relocations, organizational changes, and standardizing user information** across the tenant. Administrators should carefully review the selected users before applying changes, as bulk updates overwrite the existing values for all selected accounts. After completing the update, it is recommended to verify a few user profiles to ensure that the changes were applied correctly and that no unintended attributes were modified.
+The **Manage contact information** option is available from the **More actions (…)** menu when multiple users are selected in the **Active users** view. This feature is useful for updating shared contact details across several accounts at once and helps maintain consistent organizational information within the Microsoft 365 tenant.
