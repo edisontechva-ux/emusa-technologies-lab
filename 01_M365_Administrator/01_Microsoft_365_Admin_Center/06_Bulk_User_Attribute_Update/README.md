@@ -32,16 +32,13 @@ The selected Microsoft 365 user accounts were successfully updated with the new 
 ## Screenshot
 
 ### Active Users List with Multiple Users Selected
-
-`[Add screenshot here]`
-
 ### More Actions Menu
 
-`[Add screenshot here]`
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c8bef2e8-5084-4225-8ace-b0bf1d56ccb8" />
 
-### Manage Contact Information Dialog
+### Changes Saved
 
-`[Add screenshot here]`
+<img width="590" height="861" alt="image" src="https://github.com/user-attachments/assets/0d5ff4fa-a5aa-416b-b19e-ed5336efc1b7" />
 
 ---
 
