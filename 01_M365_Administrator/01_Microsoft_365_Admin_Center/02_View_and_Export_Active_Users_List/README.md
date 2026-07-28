@@ -45,7 +45,9 @@ This makes the export useful for access audits and license reviews, since it sur
 
 # Screenshot
 
-<img width="1919" height="911" alt="image" src="PASTE_SCREENSHOT_URL_HERE" />
+<img width="1914" height="957" alt="image" src="https://github.com/user-attachments/assets/b385bc90-311d-4d49-962a-a2d348116f2b" />
+<img width="1898" height="284" alt="image" src="https://github.com/user-attachments/assets/6d5b06ab-ecc3-4d51-ae47-177bab1047ee" />
+
 
 ---
 
