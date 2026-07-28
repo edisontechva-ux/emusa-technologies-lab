@@ -1,4 +1,4 @@
-# EMusa Technologies — Microsoft 365 & IAM Administration Playbook
+# EMusa Technologies — Microsoft 365 & IAM Administration Lab
 
 A documented reference of Microsoft 365 Administration and Identity & Access Management
 (IAM) procedures — covering the day-to-day and strategic work involved in managing an
@@ -68,6 +68,8 @@ Each topic area contains individual task folders (e.g. `01_Create_User`,
 `07_Assign_License`) documenting the scenario, configuration steps, and proof for that
 task. This playbook is actively maintained and expanded — new procedures are documented
 as they're completed.
+
+This lab is continuously updated as new Microsoft 365 and Identity & Access Management (IAM) procedures are implemented, tested, and documented.
 
 ## About
 
