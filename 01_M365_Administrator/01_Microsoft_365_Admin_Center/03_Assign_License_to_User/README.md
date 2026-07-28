@@ -31,7 +31,9 @@ Andres Navarro was successfully licensed with Microsoft 365 Business Premium. No
 
 # Screenshot
 
-<img width="1919" height="911" alt="image" src="PASTE_SCREENSHOT_URL_HERE" />
+<img width="923" height="860" alt="image" src="https://github.com/user-attachments/assets/fb3af01d-17b4-4bea-b9c2-b1791a19d682" />
+<img width="590" height="492" alt="image" src="https://github.com/user-attachments/assets/92ae6ef0-393f-4dbf-859a-92bb3c97af50" />
+<img width="921" height="297" alt="image" src="https://github.com/user-attachments/assets/16747e3c-c2d5-4b1f-8d9b-6e4692cc9a77" />
 
 ---
 
