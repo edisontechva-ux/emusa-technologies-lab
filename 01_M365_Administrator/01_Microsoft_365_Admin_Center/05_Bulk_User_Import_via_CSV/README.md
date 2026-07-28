@@ -1,23 +1,50 @@
 # Bulk User Import via CSV
 
-**Date:** _(add date completed)_
+Bulk user import allows administrators to create multiple Microsoft 365 user accounts in a single operation using a properly formatted CSV file. This method is commonly used for onboarding large numbers of users efficiently and consistently, reducing manual account creation and minimizing configuration errors.
 
-## Description
-Steps taken to bulk user import via csv within the tenant.
+---
 
-## Objectives
-- Successfully bulk user import via csv
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft 365 admin center → Users → Active users → Add multiple users**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+---
+
+## Steps
+
+1. Opened the **Microsoft 365 admin center**.
+2. Navigated to **Users → Active users**.
+3. Selected **Add multiple users**.
+4. Downloaded or prepared the Microsoft CSV template.
+5. Entered the required user details in the CSV file.
+6. Uploaded the completed CSV file.
+7. Reviewed the validation results and submitted the import job.
+8. Verified that the new user accounts appeared in the **Active users** list.
+
+---
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Multiple Microsoft 365 user accounts were successfully created using the CSV import process. The imported accounts were visible in the Active users list and were ready for license assignment and additional configuration.
+
+---
+
+## Screenshot
+
+### CSV Template
+
+`[Add screenshot here]`
+
+### CSV Upload Wizard
+
+`[Add screenshot here]`
+
+### Import Results
+
+`[Add screenshot here]`
+
+---
+
+## Administrative Notes
+
+The CSV file must follow the Microsoft-provided template exactly, including the required column headers and formatting. Even small header mismatches can cause the import process to fail. After the import completes, administrators should review the created accounts, assign the appropriate Microsoft 365 licenses, and confirm that user properties such as display name, username, and usage location were imported correctly.
