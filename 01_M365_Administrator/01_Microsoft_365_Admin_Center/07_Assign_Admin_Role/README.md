@@ -33,8 +33,6 @@ The selected user was successfully assigned the required Microsoft 365 administr
 
 ## Screenshot
 
-### Select User Account
-### Assign Admin Role Dialog
 ### Role Assignment Confirmation
 
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/483765e0-3d85-4145-a467-62282ecd5073" />
