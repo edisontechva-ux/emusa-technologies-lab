@@ -31,7 +31,9 @@ The license was successfully removed and sign-in was blocked for Andres Navarro.
 
 # Screenshot
 
-<img width="1919" height="911" alt="image" src="PASTE_SCREENSHOT_URL_HERE" />
+<img width="938" height="383" alt="image" src="https://github.com/user-attachments/assets/155e2e72-7f03-4375-9f8e-c2647854aa76" />
+<img width="933" height="903" alt="image" src="https://github.com/user-attachments/assets/603be070-eccb-49be-bc95-972e986d438b" />
+
 
 ---
 
