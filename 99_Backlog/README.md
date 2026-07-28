@@ -1,11 +1,25 @@
-# TODO
+# Backlog
 
-## Pending Tasks
+## Pending Labs
 
-- [ ] 08_Manage_Custom_Domains
-  - Reason: No test domain currently available
-  - Target Date: August 15, 2026
+- [ ] Manage Custom Domains
+  - Reason: No custom domain currently available
+  - Target Date: 2026-08-15
+
+## Future Enhancements
+
+- Exchange Online Advanced Mail Flow
+- Teams Voice Administration
+- Microsoft Intune App Protection Policies
+- Entra ID Identity Governance
+- Privileged Identity Management (PIM)
+
+## Certifications
+
+- [ ] MS-102
+- [ ] SC-300
+- [ ] AZ-104
 
 ## Notes
 
-This folder tracks pending lab activities, future enhancements, and documentation that cannot yet be completed due to licensing, subscriptions, or resource availability.
+This folder contains future documentation, planned lab activities, and features that are currently blocked by licensing, subscriptions, or resource availability.
