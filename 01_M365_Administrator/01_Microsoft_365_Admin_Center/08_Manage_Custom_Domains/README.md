@@ -23,10 +23,13 @@ Custom domains allow organizations to replace the default Microsoft 365 tenant d
 11. Returned to Microsoft 365 and clicked **Verify**.
 12. Confirmed successful domain ownership verification.
 13. Selected **Add your own DNS records**.
-14. Reviewed the required Microsoft 365 DNS records.
-15. Added the required DNS records at the domain registrar.
-16. Completed the domain configuration process.
-17. Verified that the custom domain appeared in the Microsoft 365 tenant.
+14. Reviewed the required Microsoft 365 DNS records for Exchange Online, including the MX, CNAME (Autodiscover), and SPF TXT records.
+15. Signed in to the Hostinger DNS management portal and added the required DNS records provided by Microsoft 365:
+    - MX Record
+    - CNAME Record (Autodiscover)
+    - SPF TXT Record
+16. Saved the DNS records and completed the Microsoft 365 domain configuration process.
+17. Verified that the custom domain was successfully added to the Microsoft 365 tenant and confirmed that the domain status displayed as **Healthy**.
 
 ## Result
 
@@ -40,7 +43,7 @@ The custom domain was successfully added and verified within Microsoft 365. Doma
 
 ### TXT Record Verification Details
 
-<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c51e527d-cdd4-48bb-abca-3b0cf6b086fa" />
+<img width="768" height="55" alt="image" src="https://github.com/user-attachments/assets/e3264dad-525a-4c04-8a55-e0d0abab6e8b" />
 
 ### TXT Record Created in Hostinger
 
@@ -48,19 +51,19 @@ The custom domain was successfully added and verified within Microsoft 365. Doma
 
 ### Domain Verification Completed
 
-![Uploading image.png…]()
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/65d81e84-fb79-4517-a0da-d41a24e044a8" />
 
 ### Microsoft 365 DNS Requirements
 
-*Insert screenshot*
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/a51d52e0-518a-4519-804e-ba8315d9d559" />
 
 ### DNS Records Configured
 
-*Insert screenshot*
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/15d4e4c2-1dd3-488f-8ce3-be55ec5ee163" />
 
 ### Domain Listed in Microsoft 365
 
-*Insert screenshot*
+![Uploading image.png…]()
 
 ## Administrative Notes
 
