@@ -31,23 +31,15 @@ The organization profile was successfully reviewed and configured within Microso
 
 ### Organization Profile Page
 
-*Insert screenshot*
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/21eb6aa4-e51c-4f28-9469-285cd28b8d12" />
 
 ### Organization Information
 
-*Insert screenshot*
+<img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/455b9074-26a9-4282-bcc7-7ae04ad8f7a8" />
 
-### Organization Address Configuration
+### Privacy Profile Updated
 
-*Insert screenshot*
-
-### Organization Contact Information
-
-*Insert screenshot*
-
-### Organization Profile Updated
-
-*Insert screenshot*
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/d77915cb-f821-4a04-8a1a-6dc2c59caae2" />
 
 ## Administrative Notes
 
