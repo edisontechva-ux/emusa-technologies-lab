@@ -63,7 +63,7 @@ The custom domain was successfully added and verified within Microsoft 365. Doma
 
 ### Domain Listed in Microsoft 365
 
-![Uploading image.png…]()
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/71284ce9-444a-4be6-bd2a-9e97a7b2ca76" />
 
 ## Administrative Notes
 
