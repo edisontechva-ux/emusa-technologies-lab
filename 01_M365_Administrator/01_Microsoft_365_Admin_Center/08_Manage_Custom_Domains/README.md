@@ -36,19 +36,19 @@ The custom domain was successfully added and verified within Microsoft 365. Doma
 
 ### Add Domain Wizard
 
-*Insert screenshot*
+<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/572e2f3a-6fc2-4d35-9394-063af2613f0a" />
 
 ### TXT Record Verification Details
 
-*Insert screenshot*
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/a1473531-a4a4-4801-b733-a68e51349cd9" />
 
 ### TXT Record Created in Hostinger
 
-*Insert screenshot*
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c51e527d-cdd4-48bb-abca-3b0cf6b086fa" />
 
 ### Domain Verification Completed
 
-*Insert screenshot*
+![Uploading image.png…]()
 
 ### Microsoft 365 DNS Requirements
 
