@@ -40,11 +40,11 @@ The custom domain was successfully added and verified within Microsoft 365. Doma
 
 ### TXT Record Verification Details
 
-<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/a1473531-a4a4-4801-b733-a68e51349cd9" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c51e527d-cdd4-48bb-abca-3b0cf6b086fa" />
 
 ### TXT Record Created in Hostinger
 
-<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c51e527d-cdd4-48bb-abca-3b0cf6b086fa" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/a1473531-a4a4-4801-b733-a68e51349cd9" />
 
 ### Domain Verification Completed
 
