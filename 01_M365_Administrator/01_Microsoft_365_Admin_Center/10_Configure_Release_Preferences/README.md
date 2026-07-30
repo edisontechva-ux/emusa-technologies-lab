@@ -35,23 +35,15 @@ The Microsoft 365 release preference settings were successfully reviewed and con
 
 ### Release Preferences Page
 
-*Insert screenshot*
-
-### Available Release Options
-
-*Insert screenshot*
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/52ed617f-1da6-44f6-bd83-852074cdf63c" />
 
 ### Selected Release Preference
 
-*Insert screenshot*
-
-### Configuration Saved
-
-*Insert screenshot*
+<img width="592" height="482" alt="image" src="https://github.com/user-attachments/assets/8a5abcdc-b0d6-4246-85d9-944252895a45" />
 
 ### Release Preference Confirmation
 
-*Insert screenshot*
+<img width="591" height="528" alt="image" src="https://github.com/user-attachments/assets/05c47d0c-6a08-41e6-a160-406274a67b6d" />
 
 ## Administrative Notes
 
