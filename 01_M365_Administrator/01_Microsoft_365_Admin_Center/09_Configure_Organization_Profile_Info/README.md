@@ -13,14 +13,15 @@ The Organization Profile contains tenant-wide information that identifies the or
 1. Opened the **Microsoft 365 admin center**.
 2. Navigated to **Settings → Org settings**.
 3. Selected **Organization profile**.
-4. Reviewed the organization's basic information.
-5. Updated the organization name if required.
-6. Reviewed and updated the organization's address information.
-7. Updated the organization's contact information.
-8. Reviewed the preferred language settings.
-9. Reviewed additional organization settings available within the profile.
-10. Clicked **Save** to apply the changes.
-11. Verified that the updated organization details were successfully reflected in the Microsoft 365 tenant.
+4. Reviewed the organization name displayed in the tenant.
+5. Reviewed the organization's primary address information.
+6. Reviewed the organization's contact details.
+7. Reviewed the organization's data location information.
+8. Reviewed custom themes and organizational branding settings, if configured.
+9. Reviewed privacy profile settings.
+10. Reviewed release preference settings linked to organizational administration.
+11. Clicked **Save** after confirming the organization profile information.
+12. Verified that the organization profile settings were successfully reflected within the Microsoft 365 tenant.
 
 ## Result
 
