@@ -33,11 +33,11 @@ The shared mailbox was successfully created in Exchange Online using the EMusa T
 
 ### Shared Mailbox Configuration
 
-
+<img width="1909" height="911" alt="image" src="https://github.com/user-attachments/assets/f1151444-7663-4a1f-ad25-fdb44bffce61" />
 
 ### Shared Mailbox Created
 
-
+<img width="1910" height="908" alt="image" src="https://github.com/user-attachments/assets/0e2c6f66-5399-4421-803f-6ead4cd84e52" />
 
 ## Administrative Notes
 
