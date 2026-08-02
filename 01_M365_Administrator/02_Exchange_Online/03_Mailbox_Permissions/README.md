@@ -34,14 +34,23 @@ Mailbox permissions allow Exchange Online administrators to control how authoriz
 ## PowerShell Commands
 
 ```powershell
-Connect-ExchangeOnline
+Install-Module ExchangeOnlineManagement -Scope CurrentUser
+
+Import-Module ExchangeOnlineManagement
+
+Connect-ExchangeOnline -UserPrincipalName emusa@emusatech.com
 
 Set-Mailbox -Identity "info@emusatech.com" `
 -GrantSendOnBehalfTo "emusa@emusatech.com"
 
 Get-Mailbox -Identity "info@emusatech.com" |
 Format-List DisplayName,PrimarySmtpAddress,GrantSendOnBehalfTo
+
+Disconnect-ExchangeOnline -Confirm:$false
 ```
+
+The `Disconnect-ExchangeOnline` command should be run after completing all Exchange Online PowerShell activities for the session.
+
 
 ## Result
 
@@ -51,11 +60,11 @@ The mailbox permissions were successfully configured in Exchange Online. Authori
 
 ### Full Access and Send As Permissions
 
-*Insert screenshot*
+<img width="1915" height="895" alt="image" src="https://github.com/user-attachments/assets/97c4c93f-67b1-43d7-b757-52bf7055490d" />
 
 ### Send on Behalf PowerShell Verification
 
-*Insert screenshot*
+<img width="1367" height="347" alt="image" src="https://github.com/user-attachments/assets/534779b9-d756-4417-8aed-2ab82fd0fd54" />
 
 ## Administrative Notes
 
