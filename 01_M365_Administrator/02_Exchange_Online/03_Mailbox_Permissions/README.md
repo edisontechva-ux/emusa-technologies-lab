@@ -42,6 +42,7 @@ The mailbox permissions were successfully configured in Exchange Online. Authori
 
 <img width="590" height="581" alt="image" src="https://github.com/user-attachments/assets/5a3ce85b-8077-4a17-8f38-a83a8f6d3ee1" />
 
+
 ## Administrative Notes
 
 **Full Access** allows an authorized user to open the mailbox and manage its contents but does not automatically provide permission to send messages from the mailbox.
