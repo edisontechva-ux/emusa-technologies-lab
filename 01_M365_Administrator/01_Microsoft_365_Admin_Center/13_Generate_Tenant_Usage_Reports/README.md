@@ -27,11 +27,7 @@ The Microsoft 365 tenant usage reports were successfully reviewed and exported. 
 
 ### Usage Reports Dashboard
 
-*Insert screenshot*
-
-### Exported Report
-
-*Insert screenshot*
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/7410767c-deaa-49d2-83a8-aa6508590e54" />
 
 ## Administrative Notes
 
