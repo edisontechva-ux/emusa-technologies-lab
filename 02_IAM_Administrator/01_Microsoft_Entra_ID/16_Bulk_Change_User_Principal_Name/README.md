@@ -31,11 +31,11 @@ All user accounts using the default Microsoft Entra tenant domain were successfu
 
 ### Microsoft Graph Connection
 
-*Insert screenshot*
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/6c9bf1a7-3429-4534-9846-35c8417b4a8e" />
 
 ### Updated User Principal Names
 
-*Insert screenshot*
+<img width="978" height="1055" alt="image" src="https://github.com/user-attachments/assets/3f67df51-7415-483d-9b11-656b3c4752f4" />
 
 ## Administrative Notes
 
