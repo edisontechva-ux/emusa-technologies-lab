@@ -1,23 +1,46 @@
 # Create Shared Mailbox
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to create shared mailbox within the tenant.
+A shared mailbox allows multiple users to monitor and send email from a common address, such as `support@emusatech.com`, `sales@emusatech.com`, or `info@emusatech.com`. Shared mailboxes also include a shared calendar that authorized members can use for team appointments and scheduling.
 
-## Objectives
-- Successfully create shared mailbox
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft 365 admin center → Teams & groups → Shared mailboxes**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **Microsoft 365 admin center**.
+2. Navigated to **Teams & groups → Shared mailboxes**.
+3. Selected **Add a shared mailbox**.
+4. Entered a display name for the shared mailbox.
+5. Entered the required email address using the `emusatech.com` domain.
+6. Reviewed the shared mailbox information.
+7. Selected **Save changes** to create the shared mailbox.
+8. Waited for Microsoft 365 to provision the mailbox.
+9. Selected **Add members to this mailbox**.
+10. Added the users who required access to the shared mailbox.
+11. Reviewed the mailbox membership and configuration.
+12. Confirmed that the shared mailbox appeared in the shared mailbox list.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The shared mailbox was successfully created using the EMusa Technologies custom domain. Authorized users were added as members and can access the mailbox for shared email communication and calendar collaboration.
+
+## Screenshot
+
+### Shared Mailbox Configuration
+
+*Insert screenshot*
+
+### Shared Mailbox Created
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Shared mailboxes are intended for addresses that multiple users need to access, such as support, sales, finance, or human resources.
+
+Members typically require **Full Access** to open and manage the mailbox and **Send As** permission to send messages using the shared mailbox address. Shared mailbox sign-in should remain blocked because users should access the mailbox through their own authorized accounts.
+
+A shared mailbox can store up to 50 GB without a separate license. Additional licensing may be required for storage above 50 GB, archiving, litigation hold, or advanced security and compliance capabilities. 【1-075277】【2-9d756b】【3-06245b】
