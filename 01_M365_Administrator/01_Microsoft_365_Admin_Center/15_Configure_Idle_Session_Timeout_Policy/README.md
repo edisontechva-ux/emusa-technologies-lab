@@ -1,23 +1,40 @@
 # Configure Idle Session Timeout Policy
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to configure idle session timeout policy within the tenant.
+Idle Session Timeout automatically signs users out of Microsoft 365 web applications after a configured period of inactivity. This tenant-wide security setting helps protect organizational data when users leave Microsoft 365 sessions open on shared, unattended, or unmanaged devices.
 
-## Objectives
-- Successfully configure idle session timeout policy
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft 365 admin center → Settings → Org settings → Security & privacy → Idle session timeout**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **Microsoft 365 admin center**.
+2. Navigated to **Settings → Org settings**.
+3. Selected the **Security & privacy** tab.
+4. Opened **Idle session timeout**.
+5. Reviewed the current idle session timeout configuration.
+6. Enabled the idle session timeout policy.
+7. Selected the period of inactivity before users are automatically signed out.
+8. Reviewed the configured timeout duration.
+9. Clicked **Save** to apply the policy.
+10. Confirmed that the idle session timeout policy was enabled successfully.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The idle session timeout policy was successfully configured for the Microsoft 365 tenant. Inactive users will be automatically signed out of supported Microsoft 365 web applications after the configured period.
+
+## Screenshot
+
+### Idle Session Timeout Configuration
+
+*Insert screenshot*
+
+### Policy Enabled
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Idle Session Timeout is a tenant-wide policy that applies to supported Microsoft 365 web applications but does not affect Microsoft 365 desktop or mobile applications. For initial activation, the Global Administrator role is required. The timeout duration should balance organizational security requirements with the user experience. 【1-d8e119】
