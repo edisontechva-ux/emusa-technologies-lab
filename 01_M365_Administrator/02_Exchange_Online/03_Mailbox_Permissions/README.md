@@ -34,11 +34,11 @@ The mailbox permissions were successfully configured in Exchange Online. Authori
 
 ### Mailbox Delegation Configuration
 
-*Insert screenshot*
+<img width="590" height="604" alt="image" src="https://github.com/user-attachments/assets/5596e095-f984-4209-b385-e34b6b23ea7b" />
 
 ### Mailbox Permissions Assigned
 
-*Insert screenshot*
+<img width="590" height="424" alt="image" src="https://github.com/user-attachments/assets/998fb8ee-3511-4b7d-a0e3-e4489d32ece4" />
 
 ## Administrative Notes
 
