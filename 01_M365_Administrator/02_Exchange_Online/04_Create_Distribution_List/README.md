@@ -1,23 +1,56 @@
 # Create Distribution List
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to create distribution list within the tenant.
+A distribution list allows users to send email to multiple recipients through a single email address. Distribution lists are useful for departmental announcements, operational notifications, project communication, and messages that need to reach a defined group of users.
 
-## Objectives
-- Successfully create distribution list
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+Unlike a shared mailbox, a distribution list does not store email or provide a shared inbox. Messages sent to the distribution list are delivered to each member's individual mailbox.
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+## Location
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+**Exchange admin center → Recipients → Groups → Distribution list**
+
+## Steps
+
+1. Opened the **Exchange admin center**.
+2. Navigated to **Recipients → Groups**.
+3. Selected the **Distribution list** tab.
+4. Selected **Add a group**.
+5. Chose **Distribution** as the group type.
+6. Entered a name and description for the distribution list.
+7. Assigned at least one group owner.
+8. Added the users who required membership in the distribution list.
+9. Entered a unique group email address using the `emusatech.com` domain.
+10. Configured the communication settings for the distribution list.
+11. Reviewed whether external senders should be permitted to send messages to the group.
+12. Reviewed the group name, owners, members, email address, and communication settings.
+13. Selected **Create group**.
+14. Waited for Exchange Online to provision the distribution list.
+15. Confirmed that the new distribution list appeared under **Recipients → Groups → Distribution list**.
+16. Opened the distribution list and reviewed its owners, members, email address, and delivery settings.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The distribution list was successfully created in Exchange Online using the EMusa Technologies custom domain. The required owners and members were assigned, and the group can receive messages through a single organizational email address.
+
+## Screenshot
+
+### Distribution List Configuration
+
+*Insert screenshot*
+
+### Distribution List Created
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Distribution lists should be used when email must be delivered to a defined group of recipients without requiring a shared mailbox, calendar, files, or collaborative workspace.
+
+Every distribution list should have at least one responsible owner who can manage membership and group settings.
+
+External sender access should remain disabled unless there is a documented business requirement. Allowing external senders can increase the risk of unsolicited email and abuse.
+
+Distribution list membership should be reviewed periodically to remove inactive accounts and ensure messages reach the correct recipients.
+
+For membership that must be calculated automatically from user attributes, use a dynamic distribution group instead of a standard distribution list.
