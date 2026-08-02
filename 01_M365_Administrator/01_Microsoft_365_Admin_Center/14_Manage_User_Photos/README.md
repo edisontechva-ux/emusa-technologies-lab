@@ -28,11 +28,11 @@ The selected user's profile photo was successfully updated in Microsoft 365. The
 
 ### User Profile Photo Configuration
 
-*Insert screenshot*
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/50f6b7ed-8a8f-4184-a22a-a552acf25781" />
 
 ### Profile Photo Updated
 
-*Insert screenshot*
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/ed907806-c355-4dcc-ad0c-e9bb8405672f" />
 
 ## Administrative Notes
 
