@@ -38,7 +38,8 @@ The user mailbox was successfully converted to a shared mailbox in Exchange Onli
 
 ### Shared Mailbox After Conversion
 
-[Uploading image.png…]()
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/41b1b255-5969-4642-8a86-3e628cd89d80" />
+
 <img width="590" height="590" alt="image" src="https://github.com/user-attachments/assets/73a06bed-3c0b-4990-bd2a-d95eaf091bdd" />
 
 ## Administrative Notes
