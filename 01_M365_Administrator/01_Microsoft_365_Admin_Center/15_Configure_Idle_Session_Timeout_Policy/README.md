@@ -29,11 +29,11 @@ The idle session timeout policy was successfully configured for the Microsoft 36
 
 ### Idle Session Timeout Configuration
 
-*Insert screenshot*
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/27bbba71-c20f-462a-a18b-1ab3416b0d1e" />
 
 ### Policy Enabled
 
-*Insert screenshot*
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/e757dd2b-8f30-4998-85d8-a5f11d458a0c" />
 
 ## Administrative Notes
 
