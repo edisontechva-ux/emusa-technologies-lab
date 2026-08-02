@@ -30,7 +30,7 @@ The Microsoft 365 Service Health Dashboard was successfully reviewed. Current se
 
 ### Service Health Event Details
 
-*Insert screenshot*
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/cb5123e5-5a68-4a89-b572-e351dc76aba7" />
 
 ## Administrative Notes
 
