@@ -1,24 +1,15 @@
-# Microsoft 365 Administrator Backlog
+# Troubleshoot Tenant-Wide Service Outages
 
-## Overview
+## Status
 
-This folder tracks Microsoft 365 administration labs that are planned but cannot currently be completed because of licensing, subscription, partner, legal, technical, or resource requirements.
+**Pending**
 
-Each task remains in the backlog until the necessary requirement becomes available. Once completed, the task documentation will be moved to the appropriate folder under `01_M365_Administrator`.
+## Reason
 
-## Pending Tasks
+No current tenant-specific service issue requires administrator action. The active advisories displayed in Service Health are being investigated by Microsoft and do not currently require action from EMusa Technologies.
 
-- [ ] **16_Manage_Partner_and_Delegated_Admin_Relationships**
-  - **Status:** Pending
-  - **Reason:** Microsoft Partner Center enrollment requires a verified legal entity and supporting business information.
-  - **Current state:** No partner or delegated administrative relationship is configured in the Microsoft 365 tenant.
-  - **Resume when:** EMusa Technologies has the required legal business registration and verification information.
+## Resume When
 
-## Backlog Process
-
-1. Identify the requirement preventing completion of the lab.
-2. Record the current status and reason for postponement.
-3. Obtain the required license, subscription, registration, or technical resource.
-4. Complete and validate the administrative task.
-5. Add screenshots or other evidence of completion.
-6. Move the completed task to the appropriate Microsoft 365 Administrator folder.
+- A tenant-specific issue appears under **Issues for your organization to act on**.
+- A service disruption directly affects EMusa Technologies users.
+- Troubleshooting and remediation actions can be performed and documented.
