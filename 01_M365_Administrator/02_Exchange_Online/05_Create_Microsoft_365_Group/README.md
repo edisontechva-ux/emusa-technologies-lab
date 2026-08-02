@@ -36,11 +36,11 @@ The Microsoft 365 group was successfully created using the EMusa Technologies cu
 
 ### Microsoft 365 Group Configuration
 
-*Insert screenshot*
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/05380208-a669-42e9-81ac-933d1ce74421" />
 
 ### Microsoft 365 Group Created
 
-*Insert screenshot*
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/84263bcc-4d02-40ba-b6ba-3c5df643396d" />
 
 ## Administrative Notes
 
