@@ -37,11 +37,11 @@ The distribution list was successfully created in Exchange Online using the EMus
 
 ### Distribution List Configuration
 
-*Insert screenshot*
+<img width="1907" height="903" alt="image" src="https://github.com/user-attachments/assets/0cab7c38-d9a6-4c0b-bb0a-947e9014ae00" />
 
 ### Distribution List Created
 
-*Insert screenshot*
+<img width="1914" height="907" alt="image" src="https://github.com/user-attachments/assets/bd61faba-6ea2-4543-9a09-1511520946db" />
 
 ## Administrative Notes
 
