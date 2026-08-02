@@ -2,11 +2,13 @@
 
 ## Overview
 
-Mailbox permissions allow administrators to control how authorized users access and interact with another mailbox in Exchange Online. Exchange Online supports **Full Access**, **Send As**, and **Send on Behalf** permissions for user and shared mailboxes.
+Mailbox permissions allow Exchange Online administrators to control how authorized users access and send messages from another mailbox. The primary delegation permissions are **Full Access**, **Send As**, and **Send on Behalf**.
 
 ## Location
 
 **Exchange admin center → Recipients → Mailboxes → Select mailbox → Delegation**
+
+**Exchange Online PowerShell → Set-Mailbox and Get-Mailbox**
 
 ## Steps
 
@@ -18,32 +20,53 @@ Mailbox permissions allow administrators to control how authorized users access 
 6. Reviewed the existing mailbox permissions.
 7. Opened the **Read and manage (Full Access)** permission settings.
 8. Added the users who required permission to open and manage the mailbox.
-9. Opened the **Send as** permission settings.
-10. Added the users who required permission to send messages using the mailbox address.
-11. Opened the **Send on behalf** permission settings.
-12. Added the users who required permission to send messages on behalf of the mailbox.
-13. Saved the mailbox delegation changes.
-14. Reviewed the assigned users under each permission type.
-15. Confirmed that the mailbox permissions were successfully applied.
+9. Saved the **Full Access** permission changes.
+10. Opened the **Send as** permission settings.
+11. Added the users who required permission to send messages directly from the mailbox address.
+12. Saved the **Send As** permission changes.
+13. Opened **Windows PowerShell**.
+14. Connected to Exchange Online PowerShell.
+15. Assigned **Send on Behalf** permission to the required user using the `Set-Mailbox` cmdlet.
+16. Retrieved the mailbox configuration using the `Get-Mailbox` cmdlet.
+17. Verified that the assigned user appeared under the `GrantSendOnBehalfTo` property.
+18. Confirmed that the required mailbox permissions were successfully applied.
+
+## PowerShell Commands
+
+```powershell
+Connect-ExchangeOnline
+
+Set-Mailbox -Identity "info@emusatech.com" `
+-GrantSendOnBehalfTo "emusa@emusatech.com"
+
+Get-Mailbox -Identity "info@emusatech.com" |
+Format-List DisplayName,PrimarySmtpAddress,GrantSendOnBehalfTo
+```
 
 ## Result
 
-The mailbox permissions were successfully configured in Exchange Online. Authorized users received the required permissions to access, manage, and send messages from or on behalf of the selected mailbox.
+The mailbox permissions were successfully configured in Exchange Online. Authorized users received the required permissions to open and manage the mailbox, send directly from the mailbox address, and send messages on behalf of the mailbox.
 
 ## Screenshot
 
-### Mailbox Delegation Configuration
+### Full Access and Send As Permissions
 
-### Mailbox Permissions Assigned
+*Insert screenshot*
+
+### Send on Behalf PowerShell Verification
+
+*Insert screenshot*
 
 ## Administrative Notes
 
-**Full Access** allows an authorized user to open the mailbox and manage its contents but does not automatically provide permission to send messages from the mailbox.
+**Full Access** allows an authorized user to open the mailbox, read messages, create items, and manage mailbox contents. Full Access does not automatically provide permission to send messages from the mailbox.
 
-**Send As** allows an authorized user to send messages that appear to come directly from the mailbox address.
+**Send As** allows an authorized user to send messages that appear to come directly from the mailbox address. Recipients do not see the identity of the delegate.
 
-**Send on Behalf** allows an authorized user to send messages that show the delegate as sending on behalf of the mailbox.
+**Send on Behalf** allows an authorized user to send messages on behalf of the mailbox. Recipients see both the delegate and mailbox identities in the sender information.
 
-Mailbox permissions should be assigned according to the principle of least privilege. Administrators should grant only the access required for each user's responsibilities and periodically review delegated permissions.
+For shared mailboxes, **Full Access** and **Send As** can be configured through the Exchange admin center. **Send on Behalf** can be configured and verified through Exchange Online PowerShell.
+
+Mailbox permissions should follow the principle of least privilege. Administrators should grant only the permissions required for each user's responsibilities and periodically review delegated access.
 
 Permission changes may require time to synchronize across Exchange Online and Outlook. Users may need to restart Outlook or wait for the delegated mailbox to appear.
