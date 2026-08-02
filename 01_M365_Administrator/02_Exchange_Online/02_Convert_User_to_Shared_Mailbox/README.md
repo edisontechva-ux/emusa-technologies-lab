@@ -34,11 +34,12 @@ The user mailbox was successfully converted to a shared mailbox in Exchange Onli
 
 ### User Mailbox Before Conversion
 
-*Insert screenshot*
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/7721513e-5684-4737-97a6-b79a5a539db2" />
 
 ### Shared Mailbox After Conversion
 
-*Insert screenshot*
+[Uploading image.png…]()
+<img width="590" height="590" alt="image" src="https://github.com/user-attachments/assets/73a06bed-3c0b-4990-bd2a-d95eaf091bdd" />
 
 ## Administrative Notes
 
