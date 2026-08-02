@@ -31,11 +31,11 @@ The shared mailbox was successfully created using the EMusa Technologies custom 
 
 ### Shared Mailbox Configuration
 
-*Insert screenshot*
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/0b45f71f-b519-4671-a3f5-7369b2d18c51" />
 
 ### Shared Mailbox Created
 
-*Insert screenshot*
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/628c2a31-49d4-4ead-9ee0-276df53adc3e" />
 
 ## Administrative Notes
 
