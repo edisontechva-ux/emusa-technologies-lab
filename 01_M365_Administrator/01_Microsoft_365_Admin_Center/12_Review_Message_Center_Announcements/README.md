@@ -27,11 +27,11 @@ The Message Center announcements were successfully reviewed. Relevant Microsoft 
 
 ### Message Center
 
-*Insert screenshot*
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/3bedae8c-c118-4a1e-adc3-5c3caed186be" />
 
 ### Message Details
 
-*Insert screenshot*
+<img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/17c45b8c-c1cc-4a8a-9949-22b05903c4ea" />
 
 ## Administrative Notes
 
