@@ -33,11 +33,11 @@ The mail contact was successfully created in Exchange Online. The external recip
 
 ### Mail Contact Configuration
 
-*Insert screenshot*
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/cb2dcdb3-205f-4157-bae6-a08b441366bc" />
 
 ### Mail Contact Created
 
-*Insert screenshot*
+<img width="1914" height="905" alt="image" src="https://github.com/user-attachments/assets/33a2d448-fb91-4c6c-8fde-3166b7603ebe" />
 
 ## Administrative Notes
 
