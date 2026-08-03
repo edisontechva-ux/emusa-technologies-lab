@@ -40,11 +40,11 @@ The mail flow rule was successfully created and enabled in Exchange Online. Mess
 
 ### Mail Flow Rule Configuration
 
-*Insert screenshot*
+<img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/85347a18-9712-4ac9-9a1c-748234913f92" />
 
 ### Mail Flow Rule Created
 
-*Insert screenshot*
+<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/b4cc048e-2de9-4a8d-8e90-77a4bc83633d" />
 
 ## Administrative Notes
 
