@@ -36,11 +36,11 @@ Automatic replies were successfully configured for the Exchange Online mailbox. 
 
 ### Automatic Reply Configuration
 
-*Insert screenshot*
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/12a57f26-ba31-45af-867d-51eb44edb0c7" />
 
 ### Automatic Replies Enabled
 
-*Insert screenshot*
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/383115da-8067-4c1b-b8f4-96b5020f338d" />
 
 ## Administrative Notes
 
