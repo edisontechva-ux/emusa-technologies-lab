@@ -50,11 +50,11 @@ Mailbox auditing was successfully verified in Exchange Online. Organization-leve
 
 ### Organization Audit Configuration
 
-*Insert screenshot*
+<img width="904" height="138" alt="image" src="https://github.com/user-attachments/assets/dfa0866e-924a-4233-a40f-9e3bd49bc03b" />
 
 ### Mailbox Audit Configuration
 
-*Insert screenshot*
+<img width="1143" height="254" alt="image" src="https://github.com/user-attachments/assets/8f25584d-765d-4f63-b70c-c88cec8eee5e" />
 
 ## Administrative Notes
 
