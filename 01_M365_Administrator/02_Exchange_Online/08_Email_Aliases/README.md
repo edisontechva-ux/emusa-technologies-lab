@@ -37,11 +37,11 @@ The email alias was successfully added to the Exchange Online mailbox. Messages 
 
 ### Email Alias Configuration
 
-*Insert screenshot*
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/d2e82e3f-14f9-4173-a7a6-473ed1fe355e" />
 
 ### Email Alias Added
 
-*Insert screenshot*
+<img width="590" height="774" alt="image" src="https://github.com/user-attachments/assets/a3a958a3-0548-48bb-9d9b-6ab1d94a1078" />
 
 ## Administrative Notes
 
