@@ -36,11 +36,11 @@ Email forwarding was successfully configured in Exchange Online. Messages sent t
 
 ### Email Forwarding Configuration
 
-*Insert screenshot*
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/4ef2e8c3-85e5-4f66-8f06-9d2c0154133e" />
 
 ### Email Forwarding Enabled
 
-*Insert screenshot*
+<img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/84c4ec7a-e5a8-409c-b9e3-6d513295105b" />
 
 ## Administrative Notes
 
