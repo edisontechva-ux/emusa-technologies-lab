@@ -49,15 +49,15 @@ Exchange Online can automatically process meeting requests based on the configur
 
 ### Resource Mailbox Configuration
 
-image
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/45da5946-3f61-4cc8-bb7a-9dbd294ed526" />
 
 ### Resource Mailbox Created
 
-image
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/b143a2fc-2da7-495d-b822-bf316e9db9b7" />
 
 ### Resource Booking Settings
 
-image
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/a1139ddd-4934-4bd6-8ff0-07b3797e97ee" />
 
 ## Administrative Notes
 
