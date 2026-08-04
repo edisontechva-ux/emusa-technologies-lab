@@ -29,11 +29,11 @@ Team membership was successfully updated by adding and removing users from the M
 
 ### Team Member Added
 
-*Insert screenshot*
+<img width="1913" height="901" alt="image" src="https://github.com/user-attachments/assets/f0b90f20-4329-4364-830c-83e421987a8d" />
 
 ### Team Member Removed
 
-*Insert screenshot*
+<img width="1912" height="903" alt="image" src="https://github.com/user-attachments/assets/809b3518-354f-4424-9621-90f871139eb5" />
 
 ## Administrative Notes
 
