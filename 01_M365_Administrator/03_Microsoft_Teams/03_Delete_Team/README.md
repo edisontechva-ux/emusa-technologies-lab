@@ -1,23 +1,42 @@
 # Delete Team
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to delete team within the tenant.
+Deleting a Microsoft Team permanently removes the team and its associated resources, including conversations, channels, files, and group membership. This action should be performed only when the team is no longer required.
 
-## Objectives
-- Successfully delete team
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft Teams admin center → Teams → Manage teams**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **Microsoft Teams admin center**.
+2. Navigated to **Teams → Manage teams**.
+3. Located the team to be deleted.
+4. Selected the team name.
+5. Reviewed the team details and membership.
+6. Selected **Delete**.
+7. Reviewed the deletion warning message.
+8. Confirmed the team deletion.
+9. Waited for Microsoft Teams to process the request.
+10. Confirmed that the team no longer appeared in the team list.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The Microsoft Team was successfully deleted and removed from the Microsoft Teams environment.
+
+### Team Selected for Deletion
+
+
+
+### Team Deleted
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Deleting a team removes access to its channels, conversations, files, and associated Microsoft 365 Group resources.
+
+Administrators should confirm that the team is no longer required before deletion.
+
+Team ownership, data retention, and governance requirements should be reviewed before performing this action.
