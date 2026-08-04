@@ -29,11 +29,11 @@ Guest access was successfully configured in Microsoft Teams. External users can 
 
 ### Guest Access Configuration
 
-*Insert screenshot*
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/6e7401a5-d6dd-43e6-b486-8eb59e48d256" />
 
 ### Guest User Added to Team
 
-*Insert screenshot*
+<img width="1910" height="906" alt="image" src="https://github.com/user-attachments/assets/d4611ede-9611-4b7c-9a72-3b92e77de291" />
 
 ## Administrative Notes
 
