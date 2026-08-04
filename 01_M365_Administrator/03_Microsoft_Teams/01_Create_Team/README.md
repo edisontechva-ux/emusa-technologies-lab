@@ -28,11 +28,11 @@ The Microsoft Team was successfully created and is available for collaboration, 
 
 ### Team Configuration
 
-*Insert screenshot*
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/87761614-a9f1-40b6-9886-4821544131c3" />
 
 ### Team Created
 
-*Insert screenshot*
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d83a0cb6-e7ac-45ce-894e-e4169f5aea80" />
 
 ## Administrative Notes
 
