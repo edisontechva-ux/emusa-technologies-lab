@@ -35,6 +35,8 @@ Guest access was successfully configured in Microsoft Teams. External users can 
 
 <img width="1910" height="906" alt="image" src="https://github.com/user-attachments/assets/d4611ede-9611-4b7c-9a72-3b92e77de291" />
 
+<img width="1427" height="455" alt="image" src="https://github.com/user-attachments/assets/bdaf13bf-5663-4590-932c-fc9722961a10" />
+
 ## Administrative Notes
 
 Guest access should be configured according to organizational security and collaboration requirements.
