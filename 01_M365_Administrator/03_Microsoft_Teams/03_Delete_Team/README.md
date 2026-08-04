@@ -27,11 +27,11 @@ The Microsoft Team was successfully deleted and removed from the Microsoft Teams
 
 ### Team Selected for Deletion
 
-
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/5112eee3-ec8d-49d4-b714-47948b24f125" />
 
 ### Team Deleted
 
-*Insert screenshot*
+<img width="1910" height="900" alt="image" src="https://github.com/user-attachments/assets/604e8be8-8f75-4373-8153-9058c6a9b620" />
 
 ## Administrative Notes
 
