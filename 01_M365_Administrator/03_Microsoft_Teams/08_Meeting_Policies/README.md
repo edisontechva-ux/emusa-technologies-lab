@@ -1,23 +1,47 @@
-# Meeting Policies
+# Configure Meeting Policies
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to meeting policies within the tenant.
+Meeting policies control the meeting experience in Microsoft Teams, including recording, screen sharing, lobby settings, meeting chat, and participant permissions.
 
-## Objectives
-- Successfully meeting policies
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft Teams admin center → Meetings → Meeting policies**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **Microsoft Teams admin center**.
+2. Navigated to **Meetings → Meeting policies**.
+3. Reviewed the available meeting policies.
+4. Selected **Add**.
+5. Entered a policy name and description.
+6. Configured meeting recording settings.
+7. Configured screen sharing permissions.
+8. Configured meeting chat settings.
+9. Reviewed participant and presenter permissions.
+10. Reviewed lobby settings.
+11. Selected **Save** to create the policy.
+12. Confirmed that the policy appeared in the policy list.
+13. Opened the policy and reviewed the configured settings.
+14. Assigned the policy to a test user where applicable.
+15. Verified that the policy was successfully applied.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The meeting policy was successfully created and configured. Meeting settings were applied according to the organization's collaboration and security requirements.
+
+### Meeting Policy Configuration
+
+*Insert screenshot*
+
+### Meeting Policy Created
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Meeting policies help standardize the Microsoft Teams meeting experience across the organization.
+
+Policies can be assigned to specific users or groups based on operational requirements.
+
+Meeting recording, screen sharing, and lobby settings should be reviewed periodically to ensure they align with organizational security and compliance standards.
