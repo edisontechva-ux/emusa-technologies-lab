@@ -33,11 +33,13 @@ Private and shared channels were successfully created and configured for control
 
 ### Private Channel Created
 
-*Insert screenshot*
+<img width="1914" height="907" alt="image" src="https://github.com/user-attachments/assets/3a279016-71c0-482c-a93a-5075fe74d6fd" />
 
 ### Shared Channel Created
 
-*Insert screenshot*
+<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/2e021818-ca9b-4364-b96e-0e2429c4110c" />
+
+<img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/b2b8daca-9327-4ee0-a26f-b808070fadbe" />
 
 ## Administrative Notes
 
