@@ -28,11 +28,11 @@ The channel was successfully created and is available for team collaboration, co
 
 ### Channel Configuration
 
-*Insert screenshot*
+<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/e432a530-158b-46aa-a679-8b266099f33c" />
 
 ### Channel Created
 
-*Insert screenshot*
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/523d62ca-fbbf-4322-86e2-e3a51cdd0b8f" />
 
 ## Administrative Notes
 
