@@ -1,23 +1,48 @@
-# Private and Shared Channels
+# Create Private and Shared Channels
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to private and shared channels within the tenant.
+Private and shared channels provide controlled collaboration spaces within Microsoft Teams. Private channels restrict access to selected team members, while shared channels allow collaboration with users inside or outside the team without adding them as team members.
 
-## Objectives
-- Successfully private and shared channels
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft Teams admin center → Teams → Manage teams**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **Microsoft Teams admin center**.
+2. Navigated to **Teams → Manage teams**.
+3. Selected the target team.
+4. Opened the **Channels** tab.
+5. Selected **Add channel**.
+6. Entered the channel name and description.
+7. Selected **Private** as the channel type.
+8. Added the required members.
+9. Created the private channel.
+10. Verified that the channel appeared in the channel list.
+11. Selected **Add channel** again.
+12. Entered the channel name and description.
+13. Selected **Shared** as the channel type.
+14. Reviewed the sharing options.
+15. Created the shared channel.
+16. Verified that the shared channel appeared in the channel list.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Private and shared channels were successfully created and configured for controlled collaboration within Microsoft Teams.
+
+### Private Channel Created
+
+*Insert screenshot*
+
+### Shared Channel Created
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Private channels are accessible only to selected members within a team.
+
+Shared channels allow collaboration without requiring users to become full team members.
+
+Channel permissions and membership should be reviewed regularly to ensure appropriate access.
