@@ -1,23 +1,44 @@
-# Add Remove Members
+# Add and Remove Members
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to add remove members within the tenant.
+Team membership management allows administrators and team owners to control who can access and collaborate within a Microsoft Team.
 
-## Objectives
-- Successfully add remove members
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft Teams admin center → Teams → Manage teams**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **Microsoft Teams admin center**.
+2. Navigated to **Teams → Manage teams**.
+3. Selected the target team.
+4. Opened the **Members** tab.
+5. Selected **Add member**.
+6. Searched for and selected the required user.
+7. Added the user to the team.
+8. Verified that the user appeared in the member list.
+9. Selected an existing member to be removed.
+10. Selected **Remove member**.
+11. Confirmed the member removal.
+12. Verified that the user no longer appeared in the team membership list.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Team membership was successfully updated by adding and removing users from the Microsoft Team.
+
+### Team Member Added
+
+*Insert screenshot*
+
+### Team Member Removed
+
+*Insert screenshot*
+
+## Administrative Notes
+
+Team membership should be reviewed regularly to ensure users have the appropriate access.
+
+Only authorized administrators and team owners should manage team membership.
+
+Membership changes may require a short period to synchronize across Microsoft Teams.
