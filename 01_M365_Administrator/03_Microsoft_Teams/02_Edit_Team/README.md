@@ -26,15 +26,13 @@ Editing a Microsoft Team allows administrators to update team settings, descript
 
 The Microsoft Team was successfully updated, and the new team settings and information were applied.
 
-## Screenshot
-
 ### Team Settings Before Update
 
-*Insert screenshot*
+<img width="1910" height="903" alt="image" src="https://github.com/user-attachments/assets/e2551d26-8ddf-45a8-89b0-688c0cd3f8db" />
 
 ### Team Settings After Update
 
-*Insert screenshot*
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/b434b339-1760-41d5-b813-ff52cd4c94d6" />
 
 ## Administrative Notes
 
