@@ -32,11 +32,13 @@ The meeting policy was successfully created and configured. Meeting settings wer
 
 ### Meeting Policy Configuration
 
-*Insert screenshot*
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/7ea14bb2-566d-4ef3-bb26-dcbdc540d28b" />
 
 ### Meeting Policy Created
 
-*Insert screenshot*
+<img width="1857" height="907" alt="image" src="https://github.com/user-attachments/assets/b6f5cc48-94fa-4659-8df5-e3dd254d7f6b" />
+
+<img width="1868" height="911" alt="image" src="https://github.com/user-attachments/assets/a1117809-c111-457f-b4d5-35ef1059ffc5" />
 
 ## Administrative Notes
 
