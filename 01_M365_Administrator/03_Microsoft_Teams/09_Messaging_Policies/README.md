@@ -32,11 +32,13 @@ The messaging policy was successfully created and configured. Chat and messaging
 
 ### Messaging Policy Configuration
 
-*Insert screenshot*
+<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/e6f9243c-fa9a-429f-8409-930beb6e3fd8" />
 
 ### Messaging Policy Created
 
-*Insert screenshot*
+<img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/878bc861-8ff2-4b91-861a-a4d3db9d82c6" />
+
+<img width="1917" height="904" alt="image" src="https://github.com/user-attachments/assets/4022bbfe-a955-4e1e-b963-c3bff3362c89" />
 
 ## Administrative Notes
 
