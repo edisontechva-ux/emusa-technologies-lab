@@ -1,23 +1,43 @@
-# Site Permissions
+# Manage Site Permissions
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to site permissions within the tenant.
+Site permissions determine who can access and manage a SharePoint site. Administrators can assign site admins, owners, members, and visitors to control access and collaboration.
 
-## Objectives
-- Successfully site permissions
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**SharePoint admin center → Sites → Active sites → Membership**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **SharePoint admin center**.
+2. Navigated to **Sites → Active sites**.
+3. Selected the target SharePoint site.
+4. Opened the **Membership** tab.
+5. Reviewed the existing site admins.
+6. Reviewed the site owners, members, and visitors.
+7. Selected **Add site admins**.
+8. Added the required user account.
+9. Saved the permission changes.
+10. Verified that the user appeared in the appropriate membership group.
+11. Reviewed the updated site membership configuration.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Site permissions were successfully reviewed and updated. The appropriate users were assigned access to the SharePoint site according to their responsibilities.
+
+### Site Membership Configuration
+
+![alt text](image-1.png)
+
+## Administrative Notes
+
+Site admins have administrative control over the SharePoint site.
+
+Site owners can manage site content, permissions, and collaboration settings.
+
+Site members can create and edit content based on assigned permissions.
+
+Site visitors typically have read-only access.
+
+Permissions should be reviewed regularly to ensure users have the appropriate level of access.
