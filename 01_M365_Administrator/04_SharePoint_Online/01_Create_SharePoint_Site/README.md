@@ -31,11 +31,13 @@ The SharePoint site was successfully created and is available for collaboration,
 
 ### SharePoint Site Configuration
 
-*Insert screenshot*
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ### SharePoint Site Created
 
-*Insert screenshot*
+![alt text](image.png)
 
 ## Administrative Notes
 
