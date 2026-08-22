@@ -38,8 +38,6 @@ Files were successfully restored from the OneDrive Recycle Bin, and previous fil
 
 ### Restore Previous Version
 
-![alt text](image-1.png)
-
 ![alt text](image-2.png)
 
 ## Administrative Notes
