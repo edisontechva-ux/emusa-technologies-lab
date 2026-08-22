@@ -1,23 +1,50 @@
-# File and Folder Sharing
+# Manage File and Folder Sharing
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to file and folder sharing within the tenant.
+OneDrive File and Folder Sharing allows users to securely share files and folders with internal users while maintaining access controls and collaboration capabilities.
 
-## Objectives
-- Successfully file and folder sharing
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**OneDrive → My Files**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the user's **OneDrive** site.
+2. Navigated to **My Files**.
+3. Selected a file to be shared.
+4. Selected **Share**.
+5. Reviewed the available sharing options.
+6. Selected the appropriate permission level.
+7. Entered the recipient's email address.
+8. Added a message where applicable.
+9. Selected **Send**.
+10. Verified that the sharing invitation was successfully generated.
+11. Reviewed the file permissions.
+12. Confirmed that the recipient could access the shared file.
+13. Repeated the process for a folder.
+14. Verified that folder sharing permissions were applied successfully.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+File and folder sharing was successfully configured and validated. Shared content was accessible according to the configured sharing permissions.
+
+### File Sharing Configuration
+
+![alt text](image.png)
+
+### Folder Sharing Configuration
+
+![alt text](image-1.png)
+
+### Receiver received the file and folder shared
+
+![alt text](image-2.png)
+
+## Administrative Notes
+
+OneDrive allows users to securely share files and folders with internal users.
+
+Sharing permissions should be reviewed regularly to ensure access follows the principle of least privilege.
+
+Shared content should be monitored to ensure sensitive information is only accessible to authorized users.
