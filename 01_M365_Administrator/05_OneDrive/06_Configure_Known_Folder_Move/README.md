@@ -1,23 +1,36 @@
-# Known Folder Move
+# Configure Known Folder Move
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to known folder move within the tenant.
+Known Folder Move (KFM) redirects commonly used Windows folders such as Desktop, Documents, and Pictures to OneDrive, helping protect user data and enable automatic cloud synchronization.
 
-## Objectives
-- Successfully known folder move
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft OneDrive Sync Client → Settings → Sync and backup → Manage backup**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the Microsoft OneDrive Sync Client.
+2. Reviewed the OneDrive synchronization settings.
+3. Opened the synchronized OneDrive folder in File Explorer.
+4. Verified that Desktop, Documents, and Pictures folders were available within OneDrive.
+5. Confirmed that Known Folder Move was configured successfully.
+6. Reviewed the synchronization status of the protected folders.
+7. Verified that files within the protected folders were synchronized to OneDrive.
+8. Confirmed successful access to the protected folders through File Explorer.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Known Folder Move was successfully configured and validated. Selected Windows folders were protected by OneDrive and synchronized automatically to Microsoft 365.
+
+### Known Folder Move Configuration
+
+![alt text](image.png)
+
+## Administrative Notes
+
+Known Folder Move helps protect user data by automatically synchronizing Desktop, Documents, and Pictures folders to OneDrive.
+
+Administrators can use Known Folder Move to improve data protection, device recovery, and user productivity.
+
+Users should verify that important files are stored within protected folders to ensure successful synchronization and backup.
