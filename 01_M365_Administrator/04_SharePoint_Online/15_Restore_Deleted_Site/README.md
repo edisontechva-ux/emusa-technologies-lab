@@ -1,23 +1,47 @@
-# Troubleshoot SharePoint
+# Restore Deleted Site
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to troubleshoot sharepoint within the tenant.
+SharePoint administrators can restore deleted sites during the retention period. Restoring a site returns its content, permissions, libraries, lists, and site configuration.
 
-## Objectives
-- Successfully troubleshoot sharepoint
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**SharePoint admin center → Sites → Deleted sites**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **SharePoint admin center**.
+2. Navigated to **Sites → Deleted sites**.
+3. Reviewed the list of deleted SharePoint sites.
+4. Located the site eligible for restoration.
+5. Reviewed the site details and deletion information.
+6. Selected the deleted site.
+7. Selected **Restore**.
+8. Confirmed the restoration request.
+9. Waited for the restoration process to complete.
+10. Navigated to **Sites → Active sites**.
+11. Verified that the restored site appeared in the Active Sites list.
+12. Opened the restored site.
+13. Confirmed that site content and permissions were successfully restored.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+The deleted SharePoint site was successfully restored and returned to the Active Sites list with its associated content and configuration.
+
+### Deleted Site
+
+![alt text](image.png)
+
+### Restored Site
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+## Administrative Notes
+
+Deleted SharePoint sites can be restored during the Microsoft retention period.
+
+Restoring a site returns site content, document libraries, permissions, and configuration settings.
+
+Administrators should verify site functionality and permissions after restoration.
