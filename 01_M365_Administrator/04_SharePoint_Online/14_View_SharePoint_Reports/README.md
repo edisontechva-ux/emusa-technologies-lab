@@ -26,10 +26,6 @@ SharePoint and OneDrive reports provide administrators with visibility into stor
 
 Reporting data was successfully reviewed and validated. Administrative reports provided visibility into OneDrive account status, storage usage, and retention-related information.
 
-### Reports Dashboard
-
-![alt text](image.png)
-
 ### OneDrive Accounts Report
 
 ![alt text](image-1.png)
@@ -41,4 +37,3 @@ Reports help administrators monitor storage utilization, account activity, reten
 Administrative reports should be reviewed periodically to identify trends, manage storage consumption, and support governance activities.
 
 Report information can be exported and used for operational reviews, auditing, and capacity planning.
-
