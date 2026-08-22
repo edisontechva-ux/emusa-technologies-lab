@@ -1,23 +1,43 @@
-# Site Administration
+# Manage Site Administration
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to site administration within the tenant.
+Site Administration enables administrators to manage site ownership, administrative access, membership, governance settings, and overall SharePoint site management.
 
-## Objectives
-- Successfully site administration
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**SharePoint admin center → Sites → Active sites → Membership**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Steps
+
+1. Opened the **SharePoint admin center**.
+2. Navigated to **Sites → Active sites**.
+3. Selected the target SharePoint site.
+4. Reviewed the site details.
+5. Opened the **Membership** tab.
+6. Reviewed the configured site administrators.
+7. Reviewed site owners, members, and visitors.
+8. Verified the primary site administrator assignment.
+9. Reviewed administrative permissions and access controls.
+10. Confirmed that site administration settings were configured appropriately.
+11. Verified that administrative roles were correctly assigned.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Site administration settings were successfully reviewed and validated. Administrative access, site ownership, and membership configuration were confirmed.
+
+### Site Administration Overview
+
+![alt text](image.png)
+
+### Site Administrator Configuration
+
+![alt text](image-1.png)
+
+## Administrative Notes
+
+Site administrators have elevated permissions to manage site settings, content, and user access.
+
+Administrative assignments should be reviewed regularly to ensure accountability and proper governance.
+
+Sites should maintain at least one active administrator to prevent ownership and management issues.
