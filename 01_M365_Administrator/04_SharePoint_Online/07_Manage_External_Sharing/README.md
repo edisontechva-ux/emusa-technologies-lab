@@ -38,8 +38,6 @@ External sharing was successfully configured and tested. SharePoint content can 
 
 ### External User Sharing
 
-![alt text](image-2.png)
-
 ![alt text](image-3.png)
 
 ## Administrative Notes
