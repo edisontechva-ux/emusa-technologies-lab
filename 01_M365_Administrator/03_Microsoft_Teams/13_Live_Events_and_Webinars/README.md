@@ -1,23 +1,48 @@
-# Live Events and Webinars
+# Configure Live Events and Webinars
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to live events and webinars within the tenant.
+Live Events and Webinars enable organizations to deliver large-scale online presentations, training sessions, company announcements, and public events using Microsoft Teams.
 
-## Objectives
-- Successfully live events and webinars
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft Teams admin center → Meetings → Live events policies**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+**Microsoft Teams admin center → Meetings → Live events settings**
+
+## Steps
+
+1. Opened the **Microsoft Teams admin center**.
+2. Navigated to **Meetings → Live events policies**.
+3. Reviewed the available live event policies.
+4. Opened the **Global (Org-wide default)** policy.
+5. Reviewed scheduling permissions.
+6. Reviewed recording settings.
+7. Reviewed attendee transcription settings.
+8. Reviewed external attendee permissions.
+9. Saved the configuration where required.
+10. Navigated to **Meetings → Live events settings**.
+11. Reviewed organization-wide live event settings.
+12. Reviewed external event access settings.
+13. Reviewed event support and provider options.
+14. Confirmed that Live Events functionality was available in the tenant.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Live Events settings were successfully reviewed and validated. The tenant's live event configuration was confirmed through the Microsoft Teams admin center.
+
+### Live Events Policy Configuration
+
+![alt text](image.png)
+
+### Live Events Settings
+
+![alt text](image-1.png)
+
+## Administrative Notes
+
+Live Events are designed for large-scale broadcasts and organization-wide communications.
+
+Live event availability depends on licensing, policy configuration, and organizational settings.
+
+Live event permissions and external attendee settings should be reviewed periodically to ensure they align with organizational requirements.
