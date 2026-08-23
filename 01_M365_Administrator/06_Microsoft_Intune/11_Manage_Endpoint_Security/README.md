@@ -1,23 +1,50 @@
-# Endpoint Security
+# Manage Endpoint Security
 
-**Date:** _(add date completed)_
+## Overview
 
-## Description
-Steps taken to endpoint security within the tenant.
+Endpoint Security helps organizations protect managed devices by enforcing security controls and reducing security risks. This topic is currently pending because no Windows device is available in the lab environment to validate and test Endpoint Security policies.
 
-## Objectives
-- Successfully endpoint security
-- Confirm the change is reflected correctly in the tenant
-- Document the result for reference
+## Location
 
-## Before
-_(add starting state — screenshot or description of the environment prior to this task)_
+**Microsoft Intune Admin Center → Endpoint Security**
 
-## Configuration
-_(add the steps taken and settings applied — screenshots, PowerShell/Graph commands, or policy exports)_
+## Status
+
+Pending
+
+## Reason
+
+A Windows device is required to properly configure, deploy, and validate most Microsoft Intune Endpoint Security policies, including:
+
+- Antivirus
+- Disk Encryption
+- Firewall
+- Endpoint Detection and Response (EDR)
+- Attack Surface Reduction
+- Security Baselines
+
+The current lab environment contains only an Android Enterprise device, which limits the ability to perform and validate Windows-specific Endpoint Security workloads.
+
+## Planned Activities
+
+1. Enroll a Windows device into Microsoft Intune.
+2. Navigate to **Endpoint Security**.
+3. Create Endpoint Security policies.
+4. Assign policies to target users or devices.
+5. Synchronize the Windows device.
+6. Validate policy deployment and enforcement.
+7. Review compliance and security reporting.
 
 ## Result
-_(add proof of the working result — screenshot, exported policy, or output)_
 
-## Summary
-_(add a short summary of the outcome and any notes worth remembering)_
+Pending completion upon availability of a Windows device enrolled in Microsoft Intune.
+
+### Endpoint Security Overview
+
+[Insert Screenshot]
+
+## Administrative Notes
+
+Most Endpoint Security capabilities within Microsoft Intune are designed for Windows devices and require a managed Windows endpoint for full validation.
+
+This topic will be revisited once a Windows device is available for enrollment and testing.
