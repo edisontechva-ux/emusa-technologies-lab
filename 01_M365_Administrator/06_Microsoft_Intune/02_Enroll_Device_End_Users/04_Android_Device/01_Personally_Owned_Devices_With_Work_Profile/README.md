@@ -44,19 +44,21 @@ The Android device was successfully enrolled in Microsoft Intune using a work pr
 
 ### Sign In and Configure MFA
 
-[Insert Screenshot]
+![alt text](image-1.png)
 
 ### Install Microsoft Intune Company Portal
 
-[Insert Screenshot]
+![alt text](image.png)
 
 ### Create Work Profile
 
-[Insert Screenshot]
+![alt text](image-2.png) ![alt text](image-3.png)
 
 ### Verify Android Device Enrollment
 
-[Insert Screenshot]
+![alt text](image-4.png)
+
+![alt text](image-5.png)
 
 ## Administrative Notes
 
