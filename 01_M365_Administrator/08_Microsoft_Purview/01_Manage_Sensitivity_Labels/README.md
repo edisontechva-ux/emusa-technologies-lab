@@ -69,3 +69,9 @@ Labels can be configured with encryption, content markings, and access controls 
 Sensitivity Labels must be published through a Label Policy before users can apply them to content.
 
 Administrators should define clear classification standards to ensure consistent data protection across the organization.
+
+The tenant displayed a notification indicating that Office online processing for encrypted sensitivity labels stored in OneDrive and SharePoint was not enabled.
+
+This setting was not required for the creation of a classification-only sensitivity label and was not modified as part of this exercise.
+
+The feature may be enabled in future exercises involving encrypted sensitivity labels and advanced information protection scenarios.
