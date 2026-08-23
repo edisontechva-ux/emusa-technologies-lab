@@ -2,51 +2,63 @@
 
 ## Overview
 
-Sensitivity Labels help organizations classify and protect data based on its sensitivity. Microsoft Purview Sensitivity Labels can be applied to emails, documents, and containers to enforce protection settings such as encryption, content marking, and access restrictions.
+Sensitivity Labels help organizations classify and protect data based on its sensitivity. Microsoft Purview Sensitivity Labels can be applied to emails, documents, and other supported content to support information classification and future data protection requirements.
 
 ## Location
 
-**Microsoft Purview Portal → Information Protection → Labels**
+**Microsoft Purview Portal → Information Protection → Sensitivity Labels**
 
 ## Steps
 
 1. Signed in to the Microsoft Purview Portal using an administrator account.
 2. Navigated to **Information Protection**.
-3. Selected **Labels**.
+3. Selected **Sensitivity Labels**.
 4. Reviewed existing sensitivity labels.
 5. Selected **Create a label**.
-6. Entered the label name.
-7. Entered the label description for administrators.
+6. Entered the label name **Confidential**.
+7. Entered the display name **Confidential**.
 8. Entered the label description for users.
-9. Selected the scope for the sensitivity label.
-10. Reviewed the available protection settings.
-11. Configured the required label protection settings.
-12. Reviewed content marking options.
-13. Reviewed encryption options.
-14. Reviewed access control settings.
-15. Selected **Create label**.
-16. Verified that the sensitivity label was successfully created.
-17. Confirmed that the label was available for publishing through a label policy.
+9. Entered the label description for administrators.
+10. Selected a label color.
+11. Selected **Next**.
+12. Selected **Files and emails** as the label scope.
+13. Selected **Next**.
+14. Reviewed the available protection settings.
+15. Left **Control access** disabled.
+16. Left **Apply content marking** disabled.
+17. Selected **Next**.
+18. Reviewed the available groups and sites settings.
+19. Left all groups and sites protection settings disabled.
+20. Selected **Next**.
+21. Reviewed the label configuration.
+22. Selected **Create label**.
+23. Verified that the sensitivity label was successfully created.
 
 ## Result
 
-A Microsoft Purview Sensitivity Label was successfully created. The label is available for use in future label policies and can be applied to organizational content for classification and protection.
+A Microsoft Purview Sensitivity Label named **Confidential** was successfully created. The label is available for future publishing through a label policy and can be used to classify organizational content.
 
 ### Access Sensitivity Labels
 
-[Insert Screenshot]
+![alt text](image.png)
 
 ### Create Sensitivity Label
 
-[Insert Screenshot]
+![alt text](image-1.png)
 
 ### Configure Label Settings
 
-[Insert Screenshot]
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 ### Verify Label Creation
 
-[Insert Screenshot]
+![alt text](image-5.png)
+
+![alt text](image-6.png)
 
 ## Administrative Notes
 
