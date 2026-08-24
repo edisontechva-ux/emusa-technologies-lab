@@ -44,6 +44,8 @@ A Microsoft Purview Information Barrier segment was successfully created. The se
 
 ![alt text](image-3.png)
 
+![alt text](image-4.png)
+
 ## Administrative Notes
 
 Information Barriers use segments to define groups of users that can be included in communication and collaboration restrictions.
